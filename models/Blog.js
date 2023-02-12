@@ -18,11 +18,11 @@ Blog.init(
         message: {
           type: DataTypes.STRING,
         },
-        date_created: {
+        /*date_created: {
           type: DataTypes.DATE,
           allowNull: false,
           defaultValue: DataTypes.NOW,
-        },
+        },*/
         user_id: {
           type: DataTypes.INTEGER,
           references: {
@@ -36,7 +36,7 @@ Blog.init(
         timestamps: false,
         freezeTableName: true,
         underscored: true,
-        modelName: 'project',
+        modelName: 'blog',
       }
 );
 
