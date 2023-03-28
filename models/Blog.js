@@ -19,7 +19,7 @@ Blog.init(
           type: DataTypes.STRING,
         },
         /*date_created: {
-          type: DataTypes.DATE,
+          type: DataTypes.DATE, //------------------I DON"T THINK THIS IS A REQUIREMENT - COMMENTED OUT FOR NOW
           allowNull: false,
           defaultValue: DataTypes.NOW,
         },*/
