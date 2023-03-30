@@ -27,7 +27,7 @@ User.hasMany(Comment, {
     onDelete: 'CASCADE',
 });
 
-Comment.bleongsTo(User, {
+Comment.belongsTo(User, {
     foreignKey: 'user_id',
     onDelete: 'CASCADE',
 });
