@@ -14,10 +14,6 @@ router.post('/', withAuth, async (req, res) => {
     res.status(400).json(err);
   }
 });
-
-// router.use((req, res) => {
-//     res.status(404).end();
-//   });
   
   router.delete('/:id', withAuth, async (req, res) => {
     try {
