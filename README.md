@@ -30,6 +30,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 GitHub Profile: https://github.com/swmcguire<br>
 GitHub Repo:  https://github.com/swmcguire/MVC_TechBlog.git<br>
+Live Deployed Site:  https://vast-wildwood-33005.herokuapp.com/
 
 
 
