@@ -8,7 +8,7 @@ As a developer it is nice to look at forums for tech items - this helps to keep 
 
 This challenge was definitely a challenge.  Bringing all the pieces together was very difficult.  I learned that I do not like handlebars, the overall concept makes sense but actually using it was not going in my favor.
 
-I was able to get my login to work and other routes but the front end just never came together.
+I wrote a lot of code and as able to get my login to work and other routes but the front end just never came together.
 
 ## Table of Contents (Optional)
 
