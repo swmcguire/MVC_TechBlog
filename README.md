@@ -4,18 +4,13 @@ I WANT a CMS-style blog site
 SO THAT I can publish articles, blog posts, and my thoughts and opinions
 ## Description
 
-AS 
+As a developer it is nice to look at forums for tech items - this helps to keep me up to date on what is going on in the tech world.  This app is the front end and backend for a tech blog where you can login and add/ delete comments about different technologies.
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This challenge was definitely a challenge.  Bringing all the pieces together was very difficult.  I learned that I do not like handlebars, the overall concept makes sense but actually using it was not going in my favor.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+I was able to get my login to work and other routes but the front end just never came together.
 
 ## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -24,15 +19,17 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+If you pull up the application you can simply run an npm i to install the packages - you can then use 'npm run start' to kick off the server.  Once there you can take the url and use it in insomnia to test the routes.
+
+The other option is to connect to the heroku live app here and dive in:  https://vast-wildwood-33005.herokuapp.com/
 
 ## Usage
 
+Once you go to the heroku live app as mentioned above or below you should be able to log in and begin writing comments.
+
 GitHub Profile: https://github.com/swmcguire<br>
 GitHub Repo:  https://github.com/swmcguire/MVC_TechBlog.git<br>
-
-
-
+Live Deployed Site: https://vast-wildwood-33005.herokuapp.com/
 
 ![Tech Blog Home Page](./Assets/TechBlog%20ScreenShot.png)
 
